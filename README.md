@@ -1,3 +1,3 @@
 # franc3d-patch
 一个存放个人patch后的franc3d可执行程序的仓库
-![(https://github.com/bbsy789/franc3d-patch/raw/main/zanshang.png)](路过的家人们，点个赞吧！)
+!(点个赞)[(https://github.com/bbsy789/franc3d-patch/raw/main/zanshang.png)]
