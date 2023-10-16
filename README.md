@@ -3,7 +3,7 @@
 
 ## 使用方法
 
-覆盖%temp%目录下的franc3d.exe
+覆盖原目录或%temp%目录下的franc3d.exe
 
 ## Bug问题
 欢迎提交Issue
